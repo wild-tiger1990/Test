@@ -20,5 +20,6 @@ class Ads extends Publication
     
     $ads->draw();
     echo $ads->getViewsCount();
+	
 
     
